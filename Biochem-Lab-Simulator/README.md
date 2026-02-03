@@ -2,13 +2,7 @@
 
 Simulates titration curves (strong/strong, weak/strong) and a simple 1D diffusion demo.
 
-**Live Demo:**
-<iframe
-  src="https://all-sims-edpthxbgosjrgjazw56ywe.streamlit.app/?embed=true"
-  width="100%"
-  height="600"
-  frameborder="0"
-></iframe>
+🔗 **[Live Demo](https://all-sims-edpthxbgosjrgjazw56ywe.streamlit.app/)**
 
 ---
 
