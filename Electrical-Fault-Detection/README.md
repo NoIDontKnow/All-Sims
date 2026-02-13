@@ -5,7 +5,7 @@
 \*\*An interactive tool to learn about electrical fault detection using simulated sensor data.\*\*
 
 
-
+[Live demo](https://all-sims-recfkfohvtijyxlyhnxdsj.streamlit.app/)
 !\[App Screenshot](screenshot.png)
 
 
@@ -123,6 +123,7 @@ Document your findings and improve your technical writing skills.
 &nbsp;  git clone https://github.com/NoIDontKnow/Electrical-Fault-Detection.git
 
 &nbsp;  cd Electrical-Fault-Detection
+
 
 
 
